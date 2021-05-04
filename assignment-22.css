@@ -1,0 +1,54 @@
+.header{
+    background: #f5f5f5;
+}
+.primary-menu ul li{
+    display: inline-block;
+}
+.primary-menu ul li a {
+	display: inline-block;
+	text-decoration: none;
+	padding-left: 60px;
+	line-height: 59px;
+}
+.bannar{
+    background-image: url(./img/159217740_1784682481691085_2549703048138622928_n.jpg);
+    padding: 515px 0px;
+}
+.bannar h1{
+    color: #fff;
+}
+
+.contact{
+
+}
+img {
+	height: 200px;
+}
+.col-md-6 {
+	padding-top: 29px;
+	margin-top: 10px;
+}
+.map{
+    padding-top: 75px;
+    margin: 10px;
+}
+.gg h1{
+font-size: 28px;
+}
+.gg .p1{
+    font-size: 20px;
+}
+.form{
+    padding-top: 50px;
+}
+.footer{
+    background: #0062d3;
+    color: #fff;
+    height: 60px;
+    font-size: 15px;
+}
+.footer p {
+	padding-top: 10px;
+	width: 315px;
+	margin: auto;
+}
